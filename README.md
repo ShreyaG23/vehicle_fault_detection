@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-this file is editted by shreya 19-12-22
+this file is editted by shreya in github 19-12-22
